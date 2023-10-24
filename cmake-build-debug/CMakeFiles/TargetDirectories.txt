@@ -1,0 +1,3 @@
+D:/WITODO/cmake-build-debug/CMakeFiles/WITODO_t.dir
+D:/WITODO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WITODO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
